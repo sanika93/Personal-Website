@@ -1,0 +1,271 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Portfolio</title>
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+        <link href="https://fonts.googleapis.com/css?family=Raleway:100|Roboto+Condensed:700" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/d3.css">
+	<link href="css/jquery.bxslider.css" rel="stylesheet" />
+	<link href="css/projects.css" rel="stylesheet"/>
+	<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+    </head>
+    <body>
+    <script src="js/d3_custom.js"></script>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <div id="intro" class="header-container fs">
+            <header class="wrapper">
+		<img style="border-radius: 200px;" src="img/00f6b17.jpg" width="250" height="250">
+                <h1 class="title">Hello.</h1>
+                <p style="font-size: 22px; font-weight:bold;">Welcome to my web portfolio</p>
+                <p style="font-size: 22px; font-weight:bold;">I am Sanika. I am currently pursuing my Masters in Computer Science at University of Southern California. I specialize in Web development and Software Development. I love working on new technologies.</p>
+            </header>
+        </div>
+
+        <nav>
+            <ul>
+                <li><a href="#intro"><span class="nav-dot"></span><span class="nav-label" style="font-weight:bold;">Intro</span></a></li>
+                <li><a href="#slide01"><span class="nav-dot"></span><span class="nav-label" style="font-weight:bold;">Education</span></a></li>
+                <li><a href="#slide02"><span class="nav-dot"></span><span class="nav-label" style="font-weight:bold;">Skills</span></a></li>
+                <li><a href="#slide03"><span class="nav-dot"></span><span class="nav-label" style="font-weight:bold;">Work Experience</span></a></li>
+		 <li><a href="#slide04"><span class="nav-dot"></span><span class="nav-label" style="font-weight:bold;">Projects</span></a></li>
+		<li><a href="#slide05"><span class="nav-dot"></span><span class="nav-label" style="font-weight:bold;">Contact</span></a></li>
+            </ul>
+        </nav>
+
+        <div class="main-container">
+            
+            <article id="slide01" class="slide fs">
+                <div class="wrapper">
+                   <header>
+                        <h1 class="slideInUp">Education</h1>
+                    </header>
+                    <section style="display:inline-block; margin-right:10px;" class="slideInUp">
+                        <img class="slideInUp" src="img/uscnew.jpg" style="width:150px; height:150px;">
+                        <p class="slideInUp" style="font-weight:bold;">Masters of Science in Computer Science
+                        <br>
+			University of Southern California<br>
+			CGPA: 3.6 (out of 4)<br>
+			Courses:</p>
+			<ul class="slideInUp" style="font-weight:bold;">
+			<li>CSCI 570: Analysis of Algorithms</li>    
+			<li>CSCI 571: Web Technologies</li>
+			<li>CSCI 585: Database Systems</li>
+			<li>CSCI 572: Information retrieval and Web search engines</li>
+			</ul>
+                    </section>
+		    <section style="display:inline-block" class="slideInUp">
+                        <img class="slideInUp" src="img/manipal.jpg" style="width:150px; height:150px;">
+                        <p class="slideInUp" style="font-weight:bold;">Bachelor of Tech in Computer Science
+                        <br>
+			Manipal University<br>
+			CGPA: 8.9 (out of 10)<br>
+			Courses:</p>
+			<ul class="slideInUp" style="font-weight:bold;">
+			<li>Advanced internet technologies</li>    
+			<li>Mobile Application Development</li>
+			<li>Introduction to Cryptography</li>
+			<li>Neural networks and Fuzzy Logic</li>
+			<li>Network Protocols</li>
+			</ul>
+                    </section>
+                </div> <!-- .wrapper -->
+            </article>
+
+            <article id="slide02" class="slide fs">
+                <div class="wrapper">
+                    <header>
+                        <h1 class="slideInUp">Skills</h1>
+                    </header>
+                   <section id="skills_cluster" class="slideInUp">
+		   </section> 
+                </div> <!-- .wrapper -->
+            </article>
+
+            <article id="slide03" class="slide is-light fs">
+                <div class="wrapper">
+		    <header>
+                        <h1 class="slideInUp">Work Experience</h1>
+                    </header>
+                    <ul class="bxslider slideInUp">
+		    <li><span style="font-size:28px; font-weight:bold;">Cerner Healthcare Solutions</span><br>
+		   `<span style="font-size:22px; font-weight:bold;">Summer Intern<br>
+		   Duration: January 2015-May 2015</span><br>
+		<p style="font-size:20px;font-weight:bold;">Developed and implemented an immunization forecasting tool. I was part of a 5 member team. The project uses the agile methodology of Software Development Life Cycle. Agile approaches are typically used in software development to help businesses respond to unpredictability. The Agile framework used for the project is Scrum. Model View 		Controller architechture has been used.</p></li>
+		<li><span style="font-size:28px; font-weight:bold;">Tata Consultancy Services</span><br>
+<span style="font-size:22px; font-weight:bold;">Summer Intern<br>
+Duration:May 2014-July 2014 </span><br>
+<p style="font-size:20px; font-weight:bold;">Worked on implementing new features for an existing employee portal. Built using ASP.NET,HTML,CSS,Javascript. Extensive use of jQuery UI plugins. Successfully deployed on the IIS server.</p></li>
+		<li><span style="font-size:28px; font-weight:bold;">Dromebox Labs/ Modcon IP LLC</span><br>
+<span style="font-size:22px; font-weight:bold;">Summer Intern<br>
+Duration: May 2016-July 2016 </span><br>
+<p style="font-size:20px; font-weight:bold;">Worked on implementing new features for an existing employee portal. Built using ASP.NET,HTML,CSS,Javascript. Extensive use of jQuery UI plugins. Successfully deployed on the IIS server.</p></li>
+		</ul>
+		</div> <!-- .wrapper -->
+            </article>
+
+	<article id="slide04" class="slide fs">
+                <div class="wrapper" style="position:absolute; top:45%;">
+                   <header>
+                        <h1 class="slideInUp">Projects</h1>
+                    </header>
+			<ul class="bxslider slideInUp" style="color:black;">
+			<li style="color:black;">
+			<span style="font-size:28px;font-weight:bold;">Facebook Data Visualisation</span>
+<img src="img/data_visualize.png" width="600px" height="350px" style="margin-bottom: 30px;">
+<div class="side"><span style="font-weight: bold;">Technologies</span> : d3.js, Facebook graph API<br>
+<span style="font-weight: bold;">Type</span>: Individual<br>
+<span style="font-weight: bold;">GitHub</span>: <a href="https://github.com/sanika93/Data-Visualization-for-Facebook" target="_blank">Click here!</a><br>
+<span style="font-weight: bold;">Languages</span>: HTML,CSS,Javascript,d3.js<br>
+<span style="font-weight: bold;">Features:</span><br>
+<ul style="color:black;">
+<li>Rich force layout implementation of facebook friends data</li>   
+<li>Facebook login integration</li>    
+<li>Facebook graph API usage</li>    
+<li>File upload feature so that a user can visualize their own data.</li>    
+</ul>
+</div>
+			</li>
+			<li style="color:black;">
+			<span style="font-size:28px;font-weight:bold;">Immunization Forecast Tool</span>
+<img src="img/Welcome.jpg" width="600px" height="400px" style="margin-bottom: 15px;">
+<div class="side"><span style="font-weight: bold;">Technologies</span> : Java J2EE, Servlets, MVC<br>
+<span style="font-weight: bold;">Type</span>: Team of 5<br>
+<span style="font-weight: bold;">GitHub</span>: <a href="https://github.com/sanika93/Immunization-Forecasting-Tool" target="_blank">Click here!</a><br>
+<span style="font-weight: bold;">Languages</span>: java,sql,JDBC,jsp<br>
+<span style="font-weight: bold;">About: The web application provides accurate future immunization forecast for a person.</span><br>
+<span style="font-weight: bold;">Features:</span><br>
+<ul style="color:black;">  
+<li>Implemented using Java EE framework. Agile software development used.</li>    
+<li>Project Management tools used : Git, Jira, Crucible and Jenkins</li>    
+<li>Integrated, Tested and deployed on Tomcat Apache Web Server</li>    
+</ul>
+</div>
+
+			</li>
+			<li style="color:black;">
+			<span style="font-size:28px;font-weight:bold;">Responsive Web Design Application</span>
+<img src="img/forecast.png" width="600px" height="400px" style="margin-bottom: 30px;">
+<div class="side"><span style="font-weight: bold;">Technologies</span> : Bootstrap,jQuery,Ajax<br>
+<span style="font-weight: bold;">Type</span>: Individual<br>
+<span style="font-weight: bold;">GitHub</span>: <a href="https://github.com/sanika93/Responsive-Web-Application" target="_blank">Click here!</a><br>
+<span style="font-weight: bold;">Languages</span>: PHP,HTML5,CSS<br>
+<span style="font-weight: bold;">About: A reponsive web application using latest Bootstrap classes and enhanced functionality using AJAX calls.</span><br>
+<span style="font-weight: bold;">Features:</span><br>
+<ul style="color:black;">
+<li>Made the website responsive using inbuilt bootstrap classes.</li>   
+<li>Amazon Web Services: Hosted the application on Amazon's E2 Server (Elasctic Beanstalk).</li>    
+<li>Google Maps API: Implemented Google Maps feature using google maps API.</li>    
+
+</ul>
+</div>
+
+			</li>
+			<li style="color:black;">
+			<span style="font-size:28px;font-weight:bold;">Hi-Cap Systems online Portal</span><br>
+<div style="margin-left:20px; font-size:18px; font-weight:bold; margin-top:20px;"><span style="font-weight: bold;">Technologies</span> : ASP.NET,ADO.NET,MVC<br>
+<span style="font-weight: bold;">Type</span>: Individual<br>
+<span style="font-weight: bold;">Languages</span>: C#,ASP,ADO.NET,HTML5<br>
+<span style="font-weight: bold;">About: An interactive online portal designed for employees</span><br>
+<span style="font-weight: bold;">Features:</span><br>
+<ul style="color:black;">
+<li>Employee Leave Tracker : Interactive user interface which allows users to schedule and cancel leaves.</li>   
+<li>Backend development using C# and ADO.NET</li>    
+<li>Converted existing codebase into HTML5</li>
+<li>Successfully deployed the new functionality into the company server</li>
+</ul>
+</div>
+			
+			</li>
+			<li style="color:black;">
+			<span style="font-size:28px;font-weight:bold;">Interactive Spatial Map</span><br>
+<div style="margin-left:20px; font-size:18px; font-weight:bold; margin-top:20px;"><span style="font-weight: bold;">Technologies</span> : Spatial Geometry,Java 2D API<br>
+<span style="font-weight: bold;">Type</span>: Individual<br>
+<span style="font-weight: bold;">GitHub</span>: <a href="https://github.com/sanika93/Interactive-Map-using-Spatial-Geometry" target="_blank">Click here!</a><br>
+<span style="font-weight: bold;">Languages</span>: Java,SQL<br>
+<span style="font-weight: bold;">About: Desgned an interactive map using spatial data</span> <br>
+<span style="font-weight: bold;">Features:</span><br>
+<ul style="color:black;">
+<li>Create a spatial dabatase in Oracle Client using concepts of Spatial Geometry.</li>   
+<li>Implemented a Java Graphical User Interface Application to construct an interactive Map using spatial data.</li>    
+<li>Java 2D drawing API used to implement connectivity to the Spatial database.</li>
+</ul>
+</div>
+			</li>
+			<li style="color:black;">
+			<span style="font-size:28px;font-weight:bold;">Search Engine</span><br>
+<div style="margin-left:20px; font-size:18px; font-weight:bold; margin-top:20px;"><span style="font-weight: bold;">Technologies</span> : Solr,Apache Tika,Crawler<br>
+<span style="font-weight: bold;">Type</span>: Individual<br>
+<span style="font-weight: bold;">Languages</span>: PHP,HTML,Python<br>
+<span style="font-weight: bold;">About: Built a search engine with autocomplete and spelling correction features.</span><br>
+<span style="font-weight: bold;">Features:</span><br>
+<ul style="color:black;">
+<li>Crawling - Implemented crawling using crawler4j.</li>
+<li>Indexing - Implemented indexing using Solr and apache tika parser.</li>   
+<li>Ranking - Computed page rank of documents using external python module.</li>    
+<li>Implemented the web application using PHP.Used Peter norvig's algorithm for spelling correction (python).</li>
+</ul>
+</div>
+			</li>
+			</ul>
+                   
+                </div> <!-- .wrapper -->
+            </article>
+
+	<article id="slide05" class="slide fs">
+                <div class="wrapper" style="position:absolute; top:20%;">
+                   <header>
+                        <h1 class="slideInUp">Contact</h1>
+                    </header>
+                    <div class="slideInUp">
+                    <a href="http://www.facebook.com/sanika.tamhane"><img src="img/fb-art.jpg" style="height:60px; width:60px; position:absolute;border-radius:60px;" target="_blank"></a>
+		    <a href="https://www.github.com/sanika93"><img src="img/Octocat.png" style="height:70px; width:80px; position:absolute; top:45%; left:20%; border-radius:50px;" target="_blank"></a>
+<a href="https://www.linkedin.com/in/sanika-tamhane-a2b9569b"><img src="img/linkedin-icon.png" style="height:60px; width:60px; position:absolute; top:46%; left:40%;" target="_blank"></a>
+<a href="mailto:tamhane@usc.edu"><img src="img/mail.png" style="height:60px; width:60px; position:absolute; top:46%; left:60%; border-radius:50px;" target="_blank" title="tamhane@usc.edu"></a></div>
+                </div> <!-- .wrapper -->
+            </article>
+
+        </div> <!-- #main-container -->
+
+        <!--<div class="footer-container">
+            <footer class="wrapper">
+                <h3>2016 &copy; <a href="https://ihatetomatoes.net" target="_blank">Ihatetomatoes.net</a> | <a href="https://twitter.com/ihatetomatoes" target="_blank">@ihatetomatoes</a> | Animate responsibly!</h3>
+            </footer>
+        </div>-->
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/debug.addIndicators.min.js"></script>
+
+       <script src="js/main.js"></script>
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='//www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+        </script>
+	<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<script src="js/jquery.bxslider.min.js"></script>
+	<script src="js/bx_custom.js"></script>
+	</body>
+</html>

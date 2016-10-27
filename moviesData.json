@@ -1,0 +1,745 @@
+{
+    "name" : "States",
+    "size" : 9000,
+    "children" : [
+    {
+        "name" : "NY",
+        "size" : 8000,
+        "children" : [
+                {
+                    "name" : "2002",
+                    "size" : 4000,
+                    "children" : [
+                        {
+                            "name" : "Books",
+                            "size" : 3000,
+                            "children" : [
+                                {
+                                    "name" : "Grades 3-5",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 33812
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 6-8",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 16229
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 9-12",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 27393
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades prek2",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 8550
+                                        }
+                                     ]
+                                }
+                            ]
+                        },
+                    
+                        {
+                            "name" : "Technology",
+                            "size" : 3000,
+                            "children" : [
+                                {
+                                    "name" : "Grades 3-5",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 10273
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 6-8",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 30363
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 9-12",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 60933
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades prek2",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 10999
+                                        }
+                                     ]
+                                }
+                            ]
+                        },
+                        
+                        {
+                            "name" : "Trips",
+                            "size" : 3000,
+                            "children" : [
+                                {
+                                    "name" : "Grades 3-5",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "6593",
+                                            "size" : 33812
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 6-8",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 2206
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 9-12",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 21304
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades prek2",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 3575
+                                        }
+                                     ]
+                                }
+                            ]
+                        },
+                        
+                        {
+                            "name" : "Visitors",
+                            "size" : 3000,
+                            "children" : [
+                                
+                                {
+                                    "name" : "Grades 9-12",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 1840
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades prek2",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 300
+                                        }
+                                     ]
+                                }
+                            ]
+                        },
+                        {
+                            "name" : "Supplies",
+                            "size" : 3000,
+                            "children" : [
+                                {
+                                    "name" : "Grades 3-5",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 18873
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 6-8",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 1450
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 9-12",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 18770
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades prek2",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 18403
+                                        }
+                                     ]
+                                }
+                            ]
+                        }
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    ]
+                
+                
+                
+                }
+        
+        ]
+    },
+    {
+        "name" : "IL",
+        "size" : 8000,
+        "children" : [
+                {
+                    "name" : "2002",
+                    "size" : 4000,
+                    "children" : [
+                        {
+                            "name" : "Books",
+                            "size" : 3000,
+                            "children" : [
+                                {
+                                    "name" : "Grades 3-5",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 33812
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 6-8",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 16229
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 9-12",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 27393
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades prek2",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 8550
+                                        }
+                                     ]
+                                }
+                            ]
+                        },
+                    
+                        {
+                            "name" : "Technology",
+                            "size" : 3000,
+                            "children" : [
+                                {
+                                    "name" : "Grades 3-5",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 10273
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 6-8",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 30363
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 9-12",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 60933
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades prek2",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 10999
+                                        }
+                                     ]
+                                }
+                            ]
+                        },
+                        
+                        {
+                            "name" : "Trips",
+                            "size" : 3000,
+                            "children" : [
+                                {
+                                    "name" : "Grades 3-5",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "6593",
+                                            "size" : 33812
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 6-8",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 2206
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 9-12",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 21304
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades prek2",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 3575
+                                        }
+                                     ]
+                                }
+                            ]
+                        },
+                        
+                        {
+                            "name" : "Visitors",
+                            "size" : 3000,
+                            "children" : [
+                                
+                                {
+                                    "name" : "Grades 9-12",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 1840
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades prek2",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 300
+                                        }
+                                     ]
+                                }
+                            ]
+                        },
+                        {
+                            "name" : "Supplies",
+                            "size" : 3000,
+                            "children" : [
+                                {
+                                    "name" : "Grades 3-5",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 18873
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 6-8",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 1450
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 9-12",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 18770
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades prek2",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 18403
+                                        }
+                                     ]
+                                }
+                            ]
+                        }
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    ]
+                
+                
+                
+                }
+        
+        ]
+    },
+    {
+        "name" : "CA",
+        "size" : 8000,
+        "children" : [
+                {
+                    "name" : "2002",
+                    "size" : 4000,
+                    "children" : [
+                        {
+                            "name" : "Books",
+                            "size" : 3000,
+                            "children" : [
+                                {
+                                    "name" : "Grades 3-5",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 33812
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 6-8",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 16229
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 9-12",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 27393
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades prek2",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 8550
+                                        }
+                                     ]
+                                }
+                            ]
+                        },
+                    
+                        {
+                            "name" : "Technology",
+                            "size" : 3000,
+                            "children" : [
+                                {
+                                    "name" : "Grades 3-5",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 10273
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 6-8",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 30363
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 9-12",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 60933
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades prek2",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 10999
+                                        }
+                                     ]
+                                }
+                            ]
+                        },
+                        
+                        {
+                            "name" : "Trips",
+                            "size" : 3000,
+                            "children" : [
+                                {
+                                    "name" : "Grades 3-5",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "6593",
+                                            "size" : 33812
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 6-8",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 2206
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 9-12",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 21304
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades prek2",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 3575
+                                        }
+                                     ]
+                                }
+                            ]
+                        },
+                        
+                        {
+                            "name" : "Visitors",
+                            "size" : 3000,
+                            "children" : [
+                                
+                                {
+                                    "name" : "Grades 9-12",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 1840
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades prek2",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 300
+                                        }
+                                     ]
+                                }
+                            ]
+                        },
+                        {
+                            "name" : "Supplies",
+                            "size" : 3000,
+                            "children" : [
+                                {
+                                    "name" : "Grades 3-5",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 18873
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 6-8",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 1450
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades 9-12",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 18770
+                                        }
+                                     ]
+                                },
+                                {
+                                    "name" : "Grades prek2",
+                                     "size" : 2000,
+                                     "children":[
+                                        {
+                                            "name" : "Donations",
+                                            "size" : 18403
+                                        }
+                                     ]
+                                }
+                            ]
+                        }
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    ]
+                
+                
+                
+                }
+        
+        ]
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

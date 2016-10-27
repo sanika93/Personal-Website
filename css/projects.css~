@@ -1,0 +1,8 @@
+.side{
+    
+    position: absolute;
+    top: 10%;
+    left:60%;
+    font-size:18px; 
+    color:black; 
+}
