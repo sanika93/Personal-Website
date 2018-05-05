@@ -10,38 +10,13 @@
 			"size" : 4000
                 },
 		{
-			"name" : "MongoDB",
-                        "size" : 4000
-		},
-		{
-			"name" : "OpenCV",
-                        "size" : 4000
-		},
-		{
-			"name" : "Point Cloud Library",
-                        "size" : 4000
-		},
-		{
 			"name" : "AngularJS",
-                        "size" : 4000
-		},
-		{
-			"name" : "D3.js",
-                        "size" : 4000
-		},
-		{
-			"name" : "PyBrain",
                         "size" : 4000
 		},
 		{
 			"name" : "Node.js",
                         "size" : 4000
-		},
-		{
-			"name" : "Hadoop",
-                        "size" : 4000
 		}
-
         ]
     },
     {
@@ -67,8 +42,11 @@
 		{
 			"name" : "Ajax",
                         "size" : 2000
+		},
+		{
+			"name" : "Ruby on Rails",
+			"size" : 2000
 		}
-
 	]
     },
     {
